@@ -1,0 +1,7 @@
+{
+  "name": "AI Thumbnail Master",
+  "description": "An automated YouTube thumbnail generator that analyzes scripts and styles to create professional-grade visuals using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
